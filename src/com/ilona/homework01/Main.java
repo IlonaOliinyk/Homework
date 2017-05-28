@@ -1,4 +1,4 @@
-package com.ilona;
+package com.ilona.homework01;
 
 public class Main {
 
