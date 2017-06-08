@@ -20,7 +20,7 @@ public class Main {
 
         }
 
-        System.out.println(String.format("My name is %s, haha", "IO" + random1.nextInt()));
+        System.out.println(String.format("My name is %s", "IO" + random1.nextInt()));
 
 
     }
